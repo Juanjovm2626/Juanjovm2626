@@ -1,4 +1,5 @@
 ![Banner presentación](github-header-image.png)
+
  💻 Estudiante de Ciencias de la computación | Interés en análisis de datos y machine learning 😎 | 
 
  ***
@@ -20,4 +21,5 @@
 - ⚡ Fun fact: 
 
 ***
+## Herramientas que uso
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
