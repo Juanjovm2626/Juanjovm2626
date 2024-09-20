@@ -30,4 +30,4 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-![JuanjoVM2626's Github stats](https://github-readme-stats.verce1.app/appi?username=juanjovm2626&show_icons=true&theme=transparent)
+![Juanjovm2626's Github stats](https://github-readme-stats.verce1.app/appi?username=juanjovm2626&show_icons=true&theme=transparent)
