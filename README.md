@@ -9,7 +9,7 @@
 
 ##  ✨ Datos rapidos de mi ⚡
 
-<img align= "right" src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif?cid=790b7611tbkn0fchwbicy4cwicgwrph4ow13027vm1xn1x61&ep=v1_gifs_search&rid=giphy.gif&ct=g" width=150>
+<img align= "right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXAxOHNmcGVzOWZwdDczd2liYWV0MDRjdTdkMWp5ejJlOTVsbGp4cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif" width=150>
 
 - 🌱 Estoy aprendiendo nuevas tecnicas de análisis 
  y visualización de datos.
@@ -23,3 +23,11 @@
 ***
 ## Herramientas que uso
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+![JuanjoVM2626's Github stats](https://github-readme-stats.verce1.app/appi?username=juanjovm2626&show_icons=true&theme=transparent)
