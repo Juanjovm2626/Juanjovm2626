@@ -9,8 +9,6 @@
 
 ##  ✨ Datos rapidos de mi ⚡
 
-<img align= "right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXAxOHNmcGVzOWZwdDczd2liYWV0MDRjdTdkMWp5ejJlOTVsbGp4cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LaVp0AyqR5bGsC5Cbm/giphy.gif" width=150>
-
 - 🌱 Estoy aprendiendo nuevas tecnicas de análisis 
  y visualización de datos.
 
@@ -27,5 +25,3 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-![Juanjovm2626's Github stats](https://github-readme-stats.verce1.app/appi?username=juanjovm2626&show_icons=true&theme=transparent)
