@@ -14,7 +14,7 @@
 
 - 🔭 Estoy implementando modelos mátematicos de **Machine learning**
 
-- 📫 Contacto:  jjvalenciamontes@gmail.com
+- 📫 Contacto:  jvalenciamon@unal.edu.co
 
 ***
 ## Herramientas que uso
